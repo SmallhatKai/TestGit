@@ -10,6 +10,6 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         
-        //Log.e
+        //Log.e fsfjdslakdjf防守打法
     }
 }
